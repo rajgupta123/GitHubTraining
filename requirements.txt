@@ -3,3 +3,6 @@ Emoji
 Type option 
 color
 Vibrant
+
+Dark Mode
+Viedo Calls
