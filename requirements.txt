@@ -6,3 +6,7 @@ Vibrant
 
 Dark Mode
 Viedo Calls
+
+Payment option
+send money
+Recieved Money
